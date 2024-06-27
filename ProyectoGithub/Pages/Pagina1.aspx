@@ -7,7 +7,32 @@
     hyperlink a la paginna 2 
     en la pagina 2 eventos del clima importantes en los 10 anios --%>
 
-
+    <h1> El clima </h1>
+    <hr />
+    <table>
+  <tr>
+    <td>Provincias</td>
+    <td>San jose</td>
+    <td>Limon</td>
+    <td>Puntarenas</td>
+    <td>Cartago</td>
+  </tr>
+  <tr>
+    <td>Clima</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13l</td>
+  </tr>
+  <tr>
+    <td>pronostico de lluvia</td>
+    <td>bajo</td>
+    <td>bajo</td>
+    <td>bajo</td>
+    <td>bajo</td>
+  </tr>
+ 
+</table>
 
 
 </asp:Content>
