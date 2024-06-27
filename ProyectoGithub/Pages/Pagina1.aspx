@@ -140,7 +140,7 @@
   </table>
 
     <h2>
-        Te gustaria aprender mas de los eventos del clima mas importantes en los 10 anios ? 
+        Te gustaria aprender mas de los eventos del clima mas importantes en los 10 años ? 
     </h2>
   <a href="Pagina2.Aspx">Da click aqui</a>
 
