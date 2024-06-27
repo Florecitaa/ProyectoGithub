@@ -17,13 +17,21 @@
     <td>Puntarenas</td>
     <td>Cartago</td>
   </tr>
+  
   <tr>
-    <td>Clima</td>
+    <td>Clima esta semana</td>
     <td>10</td>
     <td>11</td>
     <td>12</td>
     <td>13l</td>
   </tr>
+         <tr>
+   <td>Clima la semana pasada</td>
+   <td>10</td>
+   <td>11</td>
+   <td>12</td>
+   <td>13l</td>
+ </tr>
   <tr>
     <td>pronostico de lluvia</td>
     <td>bajo</td>
@@ -31,8 +39,15 @@
     <td>bajo</td>
     <td>bajo</td>
   </tr>
- 
+         <tr>
+  <td>Cantones con posibilidad de lluvia</td>
+  <td>San jose</td>
+  <td>Limon</td>
+  <td>Puntarenas</td>
+  <td>Cartago</td>
+</tr>
 </table>
 
+ 
 
 </asp:Content>
