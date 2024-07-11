@@ -32,7 +32,7 @@ namespace ProyectoGithub.Pages
                 new NoticiaClimatica { Anho = 2021, Evento = "Tormenta invernal en Texas", Lugar = "EE.UU. (Texas)", Impacto = "Cortes de energía, escasez de agua" },
                 new NoticiaClimatica { Anho = 2007, Evento = "Inundaciones en Reino Unido", Lugar = "Reino Unido", Impacto = "Daños extensos, miles de evacuados" },
                 new NoticiaClimatica { Anho = 2008, Evento = "Ciclón Nargis", Lugar = "Birmania", Impacto = "138,000 muertes, devastación masiva" },
-                /*
+                
                 new NoticiaClimatica { Anho = 2009, Evento = "Ola de calor", Lugar = "India", Impacto = "Cientos de muertes, crisis agrícola" },
                 new NoticiaClimatica { Anho = 2010, Evento = "Ola de calor", Lugar = "Rusia", Impacto = "Miles de muertes, incendios forestales" },
                 new NoticiaClimatica { Anho = 2011, Evento = "Terremoto y tsunami", Lugar = "Japón", Impacto = "Destrucción masiva, crisis nuclear" },
@@ -45,10 +45,7 @@ namespace ProyectoGithub.Pages
                 new NoticiaClimatica { Anho = 2018, Evento = "Incendios forestales en Grecia", Lugar = "Grecia", Impacto = "Muertes y destrucción de propiedades" },
                 new NoticiaClimatica { Anho = 2019, Evento = "Incendios forestales en Australia", Lugar = "Australia", Impacto = "Incendios generalizados, pérdida significativa de vida silvestre" },
                 new NoticiaClimatica { Anho = 2020, Evento = "Incendios forestales", Lugar = "EE.UU. (California)", Impacto = "Evacuaciones a gran escala, daños a la propiedad" },
-                new NoticiaClimatica { Anho = 2021, Evento = "Tormenta invernal en Texas", Lugar = "EE.UU. (Texas)", Impacto = "Cortes de energía, escasez de agua" },
-                new NoticiaClimatica { Anho = 2022, Evento = "Ola de calor en Europa", Lugar = "Europa", Impacto = "Altas temperaturas récord, crisis de salud pública" },
                 new NoticiaClimatica { Anho = 2023, Evento = "Inundaciones en Pakistán", Lugar = "Pakistán", Impacto = "Desplazamiento masivo, daños severos a infraestructura" }
-                */
             };
         }
 
