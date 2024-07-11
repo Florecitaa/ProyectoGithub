@@ -30,7 +30,7 @@ namespace ProyectoGithub.Pages
                 new NoticiaClimatica { Anho = 2010, Evento = "Ola de calor", Lugar = "Rusia", Impacto = "Miles de muertes, incendios forestales" },
                 new NoticiaClimatica { Anho = 2012, Evento = "Huracán Sandy", Lugar = "EE.UU.", Impacto = "Daños graves en la costa este" },
                 new NoticiaClimatica { Anho = 2006, Evento = "Huracán Katrina", Lugar = "EE.UU.", Impacto = "Inundaciones masivas y destrucción" },
-                new NoticiaClimatica { Anho = 2010, Evento = "Ola de calor", Lugar = "Rusia", Impacto = "Miles de muertes, incendios forestales" },
+               
                 new NoticiaClimatica { Anho = 2012, Evento = "Huracán Sandy", Lugar = "EE.UU.", Impacto = "Daños graves en la costa este" }
 
             };
